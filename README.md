@@ -24,5 +24,3 @@ Each line in the JSONL file looks like this:
                  "longitude": "164.2731"}
 }
 ```
-
-## License
